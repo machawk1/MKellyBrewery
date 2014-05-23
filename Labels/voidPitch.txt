@@ -1,0 +1,5 @@
+As the temperature drops, M. Kelly Brewery is releasing a series of dark beers, the first being a programming-themed brew:
+
+void blackLager()
+
+This dark, sweet, cold-brewed proper lager is an escape from our previous ales and provides a richness and character that is proving to be a crowd favorite.
